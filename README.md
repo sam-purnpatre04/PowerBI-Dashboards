@@ -7,11 +7,11 @@ This repository contains interactive Power BI dashboards created using real-worl
 
 ### Marketing Campaign Analysis
 
-Analyze campaign performance using Revenue, Spend, ROI, and regional insights.
+I have analyzed the campaign performance using Revenue, Spend, ROI, and regional insights.
 
 ### HR Analytics Dashboard
 
-Analyze employee attrition, workforce demographics, and retention trends.
+I have analyzed the employee attrition, workforce demographics, and retention trends.
 
 ## Tools
 
