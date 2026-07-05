@@ -60,7 +60,3 @@ The project uses three datasets:
 - Business Insight Generation
 
 ---
-
-## Dashboard Preview
-
-(Add dashboard.png here)
