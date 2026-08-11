@@ -37,6 +37,19 @@ This dashboard helps analyze workforce data to understand employee behavior, att
 - Retention & Turnover Metrics
 
 ---
+### Supply Chain & Performance Analysis Dashboard
+
+This dashboard tracks critical supply chain operations to identify bottlenecks, optimize inventory levels, and evaluate supplier efficiency for enhanced operational agility.
+
+**Key Insights**
+
+-Inventory Turnover & Holding Costs
+-Order Fulfillment & On-Time Delivery Rates
+-Lead Time & Cycle Time Breakdown
+-Supplier Quality & Reliability Performance
+-Shipping Cost & Route Efficiency Analysis
+-Stockout & Backorder Tracking
+-Supply Chain KPI Summary Dashboard
 
 ## 🛠️ Tools & Technologies
 
